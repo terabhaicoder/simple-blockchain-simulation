@@ -19,5 +19,5 @@ This project is a **basic blockchain simulation** implemented in Python. It mimi
 - Docker (optional for containerized deployment)
 
 ## Docker Deployment
-docker build -t blockchain-simulation .
-docker run --name blockchain-sim blockchain-simulation
+- docker build -t blockchain-simulation .
+- docker run --name blockchain-sim blockchain-simulation
